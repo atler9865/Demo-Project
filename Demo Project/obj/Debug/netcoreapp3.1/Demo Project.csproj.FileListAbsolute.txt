@@ -1,0 +1,23 @@
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.exe
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.csprojAssemblyReference.cache
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.AssemblyInfoInputs.cache
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.AssemblyInfo.cs
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.RazorTargetAssemblyInfo.cache
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\staticwebassets\Demo Project.StaticWebAssets.Manifest.cache
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\staticwebassets\Demo Project.StaticWebAssets.xml
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.deps.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.runtimeconfig.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.runtimeconfig.dev.json
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.dll
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Demo Project.pdb
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Demo Project\Demo Project\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.csproj.CopyComplete
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.dll
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.pdb
+D:\Demo Project\Demo Project\obj\Debug\netcoreapp3.1\Demo Project.genruntimeconfig.cache
