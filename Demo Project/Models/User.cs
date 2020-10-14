@@ -1,9 +1,13 @@
 ﻿using Microsoft.AspNetCore.Identity;
+using System.ComponentModel.DataAnnotations;
 
 namespace Demo_Project.Models
 {
     public class User : IdentityUser<string>
     {
+        [Key]
+        public int Id { get; set; }
+        [Required]
         public Name Name;
         public Email Email;
         public Adress Adress;
